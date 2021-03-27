@@ -1,0 +1,12 @@
+---
+enable: true
+topTitle: CI Cocinas
+content: >
+  # Construimos esplendidos ambientes
+
+  Respondiendo a los nuevos retos y necesidades que el mercado presenta en la 
+  actualidad, queremos ofrecer nuestros productos y garantizar la satisfacción 
+  permanente de nuestros clientes con materiales y servicios de alta calidad.
+buttonName: Contacto
+buttonURL: contact
+image: images/hero/2960351.jpg

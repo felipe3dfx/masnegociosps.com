@@ -1,0 +1,18 @@
+---
+enable: true
+topTitle: Nosotros
+title: >
+  ## Compañía
+
+  Agregar valor a nuestros clientes ofreciendo los mejores servicios y productos del sector.
+content: >
+  ### Diseñamos productos que agregan valor a nuestros clientes.
+
+  Amamos el trabajo que hacemos, siempre pensamos en la experiencia y funcionalidad de nuestros 
+  productos. Nos encanta resolver problemas y encontrar soluciones innovadoras. Siempre tratamos de
+  ofrecer una experiencia completa.
+button1Name: Contacto
+button2Name: Descargar Portafolio
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
