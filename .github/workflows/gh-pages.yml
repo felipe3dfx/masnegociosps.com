@@ -20,12 +20,7 @@ jobs:
           hugo-version: 'latest'
 
       - name: Build
-        shell: bash
-        env:
-          MAP_KEY: ${{ secrets.MAP_KEY }}
-          RECAPTCHA_KEY: ${{ secrets.RECAPTCHA_KEY }}
-        run: |
-          env MAP_KEY="$MAP_KEY" RECAPTCHA_KEY="$RECAPTCHA_KEY" hugo --minify
+        run: hugo --minify
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3

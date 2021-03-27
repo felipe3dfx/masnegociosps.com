@@ -44,6 +44,7 @@ contactLink = "contact"
 copyright = "All right reserved copyright © 2021"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "https://formspree.io/f/xlearovo"
+recaptchaSiteKey = "6LccaZAaAAAAAFEqeIP1PPadcgjJD9iDcy5vbWB9"
 googleAnalytics = "G-5Q5X5LNSG2"
 logo = "images/site-navigation/logo.png"
 
@@ -54,6 +55,7 @@ openingHours = "Lunes a Viernes de 7am - 5pm, Sabados de 8am - 12m"
 phone = "+(57) 315 6000 996"
 
 [params.map]
+APIkey = "AIzaSyDyHSoyWRW5ROXqIPwzEMe2osAd7AIWzj4"
 latitude = "4.627259"
 longitude = "-74.119193"
 pinImage = "images/pin.png"
