@@ -74,7 +74,7 @@ $(document).ready(function () {
       e.preventDefault();
       $("body,html").animate(
         {
-          scrollTop: elem.offset().top,
+          scrollTop: elem.offset().top - 50,
         },
         1000
       );
