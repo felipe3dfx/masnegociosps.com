@@ -17,14 +17,6 @@ weight = 2
 name = "Servicios"
 url = "#service"
 weight = 3
-# [[menu.main]]
-# name = "Proyectos"
-# url = "#portfolio"
-# weight = 4
-[[menu.main]]
-name = "Contacto"
-url = "#contact"
-weight = 5
 
 # Sitemap Menu
 [[menu.sitemap]]
@@ -38,7 +30,7 @@ weight = 2
 
 [params]
 headerCTAName = "Contacto"
-bannerCTAName = "Comencemos un proyecto"
+bannerCTAName = "Inicia tu proyecto"
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © 2021"
