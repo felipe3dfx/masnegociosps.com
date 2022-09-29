@@ -436,7 +436,7 @@ function initialize() {
     position: mapCenter,
     map: map,
     icon: pinIcon,
-    title: "CI Cocinas",
+    title: "Más Negocios",
   });
 }
 

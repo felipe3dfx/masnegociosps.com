@@ -1,8 +1,8 @@
-baseURL = "https://cicocinas.com/"
+baseURL = "https://masnegociosps.com/"
 languageCode = "es-co"
 paginate = 6
 theme = "portio"
-title = "CI Cocinas"
+title = "Más negocios"
 
 # Main Menu
 [[menu.main]]
@@ -37,23 +37,23 @@ googleAnalytics = "G-5Q5X5LNSG2"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Carrera 64A # 4G-98, Bogotá, Colombia."
-email = "info@cicocinas.com"
-openingHours = "Lunes a Viernes de 7am - 5pm, Sabados de 8am - 12m"
+address = "Carrera 5 # 7-82, Cota Cundinamarca, Colombia."
+email = "info@masnegociosps.com"
+openingHours = "Lunes a Viernes de 7am - 5pm, Sábados de 8am - 12m"
 phone = "+(57) 315 6000 996"
 
 [params.map]
 APIkey = "AIzaSyDyHSoyWRW5ROXqIPwzEMe2osAd7AIWzj4"
-latitude = "4.627259"
-longitude = "-74.119193"
+latitude = "4.806829"
+longitude = "-74.1044034"
 pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/cicocinas/"
+url = "https://www.facebook.com/masnegociosps/"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/company/c-i-cocinas-s-a-s-/"
+url = "https://www.linkedin.com/company/masnegociosps/"
 weight = 2
